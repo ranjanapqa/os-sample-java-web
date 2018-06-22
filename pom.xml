@@ -4,7 +4,7 @@
   <groupId>openshift</groupId>
   <artifactId>getting-started-tomcat</artifactId>
   <packaging>war</packaging>
-  <version> 3.9.15<version>
+  <version> 3.9.15</version>
   <name>getting-started-tomcat Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
@@ -31,4 +31,6 @@
           </plugin>
       </plugins>
   </build>
-git@github.com:ranjanapqa/os-sample-java-web.git</project>
+git@github.com:ranjanapqa/os-sample-java-web.git
+
+</project>
