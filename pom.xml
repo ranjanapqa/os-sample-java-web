@@ -27,7 +27,7 @@
 
               <configuration>
                   <warName>rooot</warName>
-                  <url>http://localhost:9090/Manager/Deploy</url>
+                  <url>http://localhost:9090/manager/text</url>
 					<server>TomcatServer</server>
 				<path>Devops_Assignment</path>
               </configuration>
